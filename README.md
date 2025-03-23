@@ -23,8 +23,7 @@ I'm **Tanmoy Saha**, a passionate **Full-Stack Developer** specializing in **Rea
 ### 🚀 **Projects**  
 🔹 [**E-Commerce Website**](https://github.com/Tonmoysa/e_commerce_website) – A fully functional e-commerce platform with payment integration.  
 🔹 [**Blog Management System**](https://github.com/Tonmoysa/blog_website) – A dynamic blog platform with authentication & CRUD features.  
-🔹 **Football Lineup & Stats Web App** – A web app that fetches live football match lineups and statistics.  
-
+ 
 ---
 
 ### 📈 **GitHub Stats**  
